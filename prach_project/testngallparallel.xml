@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suiteblast"  />
+<listeners>
+	<listener class-name="com.prach_project.utilities.Extentreportclient"></listener>
+</listeners>
+<test  name="Test">
+	<classes>
+		<class name="com.prach_project.testcases.TC_women_001" /> 
+		<!-- <class name="com.prach_project.testcases.ParalleltestingTC01" /> -->
+		<!-- <class name="com.prach_project.testcases.ParalleltestingTC02" /> -->
+		<!-- <class name="com.prach_project.testcases.TCIndexpage01" /> -->
+		<!-- <class name="com.prach_project.testcases.ParalleltestingTC01IP" /> -->
+		<!-- <methods>
+			<include name="TC2" /></include>
+			<exclude name="launchTC" /></exclude>
+		</methods> -->
+	</classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->

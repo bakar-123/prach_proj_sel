@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-03T16:16:54 IST" name="Suiteblast" finished-at="2024-03-03T16:17:42 IST" duration-ms="47420">
+    <groups>
+      <group name="simple">
+        <method signature="TCIndexpage01.launchTC()[pri:0, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" name="launchTC" class="com.prach_project.testcases.TCIndexpage01"/>
+        <method signature="TCIndexpage01.TC3()[pri:2, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" name="TC3" class="com.prach_project.testcases.TCIndexpage01"/>
+      </group> <!-- simple -->
+      <group name="pimple">
+        <method signature="TCIndexpage01.TC2()[pri:1, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" name="TC2" class="com.prach_project.testcases.TCIndexpage01"/>
+        <method signature="TCIndexpage01.TC3()[pri:2, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" name="TC3" class="com.prach_project.testcases.TCIndexpage01"/>
+      </group> <!-- pimple -->
+      <group name="dimple">
+        <method signature="TCIndexpage01.TC2()[pri:1, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" name="TC2" class="com.prach_project.testcases.TCIndexpage01"/>
+        <method signature="TCIndexpage01.TC3()[pri:2, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" name="TC3" class="com.prach_project.testcases.TCIndexpage01"/>
+      </group> <!-- dimple -->
+    </groups>
+    <test started-at="2024-03-03T16:16:54 IST" name="Testalltypes" finished-at="2024-03-03T16:17:42 IST" duration-ms="47420">
+      <class name="com.prach_project.testcases.ParalleltestingTC02">
+        <test-method signature="verifyWomenTopIsSelecting()[pri:0, instance:com.prach_project.testcases.ParalleltestingTC02@273444fe]" started-at="2024-03-03T16:17:25 IST" name="verifyWomenTopIsSelecting" finished-at="2024-03-03T16:17:35 IST" duration-ms="10091" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [439f89489fdcc2973984b0adf64e7709, findElement {using=xpath, value=//a[@class='login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\kahme\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54374}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54374/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 439f89489fdcc2973984b0adf64e7709]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='login']"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [439f89489fdcc2973984b0adf64e7709, findElement {using=xpath, value=//a[@class='login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\kahme\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54374}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54374/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 439f89489fdcc2973984b0adf64e7709
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:523)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at com.prach_project.pageobject.Indexpage.clickSignIn(Indexpage.java:30)
+at com.prach_project.testcases.ParalleltestingTC02.verifyWomenTopIsSelecting(ParalleltestingTC02.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenTopIsSelecting -->
+      </class> <!-- com.prach_project.testcases.ParalleltestingTC02 -->
+      <class name="com.prach_project.testcases.ParalleltestingTC01">
+        <test-method is-config="true" signature="setupapp()[pri:0, instance:com.prach_project.testcases.ParalleltestingTC01@7a35b0f5]" started-at="2024-03-03T16:16:55 IST" name="setupapp" finished-at="2024-03-03T16:17:08 IST" duration-ms="12654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupapp -->
+        <test-method signature="verifyWomenProductIsSelecting()[pri:0, instance:com.prach_project.testcases.ParalleltestingTC01@7a35b0f5]" started-at="2024-03-03T16:17:08 IST" name="verifyWomenProductIsSelecting" finished-at="2024-03-03T16:17:25 IST" duration-ms="16968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWomenProductIsSelecting -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prach_project.testcases.ParalleltestingTC01@7a35b0f5]" started-at="2024-03-03T16:17:41 IST" name="teardown" finished-at="2024-03-03T16:17:42 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.prach_project.testcases.ParalleltestingTC01 -->
+      <class name="com.prach_project.testcases.TCIndexpage01">
+        <test-method signature="launchTC()[pri:0, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" started-at="2024-03-03T16:17:35 IST" name="launchTC" finished-at="2024-03-03T16:17:37 IST" duration-ms="1461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTC -->
+        <test-method signature="TC2()[pri:1, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" started-at="2024-03-03T16:17:37 IST" name="TC2" finished-at="2024-03-03T16:17:37 IST" depends-on-methods="com.prach_project.testcases.TCIndexpage01.launchTC" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3()[pri:2, instance:com.prach_project.testcases.TCIndexpage01@5524cca1]" started-at="2024-03-03T16:17:37 IST" name="TC3" finished-at="2024-03-03T16:17:41 IST" depends-on-methods="com.prach_project.testcases.TCIndexpage01.TC2, com.prach_project.testcases.TCIndexpage01.launchTC" duration-ms="3811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- com.prach_project.testcases.TCIndexpage01 -->
+    </test> <!-- Testalltypes -->
+  </suite> <!-- Suiteblast -->
+</testng-results>

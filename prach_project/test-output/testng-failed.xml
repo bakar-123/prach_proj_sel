@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suiteblast]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.prach_project.utilities.Extentreportclient"/>
+  </listeners>
+  <test thread-count="5" name="Testalltypes(failed)">
+    <classes>
+      <class name="com.prach_project.testcases.ParalleltestingTC02">
+        <methods>
+          <include name="teardown"/>
+          <include name="verifyWomenTopIsSelecting"/>
+          <include name="setupapp"/>
+        </methods>
+      </class> <!-- com.prach_project.testcases.ParalleltestingTC02 -->
+    </classes>
+  </test> <!-- Testalltypes(failed) -->
+</suite> <!-- Failed suite [Suiteblast] -->

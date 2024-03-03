@@ -1,0 +1,253 @@
+[INFO ] 2024-01-07 20:42:57.286 [main] prach_project - launchTC done successfully
+[ERROR] 2024-01-07 20:42:57.293 [main] prach_project - from now it is getting error
+[ERROR] 2024-01-07 20:43:01.891 [main] prach_project - from now it is getting error
+[INFO ] 2024-01-08 21:21:53.345 [main] prach_project - this test case is :signInScenariois successfully executed
+[INFO ] 2024-01-08 21:24:00.368 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-08 23:12:46.121 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-08 23:21:08.097 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-08 23:21:08.177 [main] prach_project - login page verified 
+[INFO ] 2024-01-08 23:21:08.396 [main] prach_project - email entered success
+[INFO ] 2024-01-08 23:21:08.563 [main] prach_project - password entered success
+[INFO ] 2024-01-08 23:21:09.715 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-08 23:21:09.715 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-08 23:21:09.745 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-01-08 23:21:09.761 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-08 23:26:58.579 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-08 23:26:58.639 [main] prach_project - login page verified 
+[INFO ] 2024-01-08 23:26:58.901 [main] prach_project - email entered success
+[INFO ] 2024-01-08 23:26:59.055 [main] prach_project - password entered success
+[INFO ] 2024-01-08 23:27:00.298 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-08 23:27:00.298 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-08 23:27:00.345 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-01-08 23:27:00.345 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-08 23:30:53.724 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-08 23:30:53.787 [main] prach_project - login page verified 
+[INFO ] 2024-01-08 23:30:54.006 [main] prach_project - email entered success
+[INFO ] 2024-01-08 23:30:54.171 [main] prach_project - password entered success
+[INFO ] 2024-01-08 23:30:55.075 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-08 23:30:55.075 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-08 23:38:26.002 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-08 23:38:26.048 [main] prach_project - login page verified 
+[INFO ] 2024-01-08 23:38:26.221 [main] prach_project - email entered success
+[INFO ] 2024-01-08 23:38:26.358 [main] prach_project - password entered success
+[INFO ] 2024-01-08 23:38:27.362 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-08 23:38:27.363 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-08 23:38:27.392 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-01-08 23:38:27.392 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-08 23:39:10.974 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-08 23:39:11.022 [main] prach_project - login page verified 
+[INFO ] 2024-01-08 23:39:11.195 [main] prach_project - email entered success
+[INFO ] 2024-01-08 23:39:11.338 [main] prach_project - password entered success
+[INFO ] 2024-01-08 23:39:12.256 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-08 23:39:12.258 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-08 23:45:30.717 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-08 23:45:30.763 [main] prach_project - login page verified 
+[INFO ] 2024-01-08 23:45:30.936 [main] prach_project - email entered success
+[INFO ] 2024-01-08 23:45:31.094 [main] prach_project - password entered success
+[INFO ] 2024-01-08 23:45:31.973 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-08 23:45:31.973 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-09 20:51:32.289 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-09 20:51:32.433 [main] prach_project - login page verified 
+[INFO ] 2024-01-09 20:51:32.946 [main] prach_project - email entered success
+[INFO ] 2024-01-09 20:51:33.246 [main] prach_project - password entered success
+[INFO ] 2024-01-09 20:51:35.315 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-09 20:51:35.315 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-09 21:30:04.539 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-09 21:30:04.649 [main] prach_project - login page verified 
+[INFO ] 2024-01-09 21:30:05.104 [main] prach_project - email entered success
+[INFO ] 2024-01-09 21:30:05.421 [main] prach_project - password entered success
+[INFO ] 2024-01-09 21:30:06.621 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-09 21:30:06.621 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-09 21:45:33.779 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-09 21:45:33.904 [main] prach_project - login page verified 
+[INFO ] 2024-01-09 21:45:34.334 [main] prach_project - email entered success
+[INFO ] 2024-01-09 21:45:34.669 [main] prach_project - password entered success
+[INFO ] 2024-01-09 21:45:35.870 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-09 21:45:35.870 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-09 22:33:29.628 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-09 22:33:29.769 [main] prach_project - login page verified 
+[INFO ] 2024-01-09 22:33:30.146 [main] prach_project - email entered success
+[INFO ] 2024-01-09 22:33:30.463 [main] prach_project - password entered success
+[INFO ] 2024-01-09 22:33:31.543 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-09 22:33:31.543 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-10 21:08:12.854 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-10 21:08:12.996 [main] prach_project - login page verified 
+[INFO ] 2024-01-10 21:08:13.332 [main] prach_project - email entered success
+[INFO ] 2024-01-10 21:08:13.570 [main] prach_project - password entered success
+[INFO ] 2024-01-10 21:08:14.863 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-10 21:08:14.878 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-10 21:13:58.631 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-10 21:13:58.692 [main] prach_project - login page verified 
+[INFO ] 2024-01-10 21:13:58.958 [main] prach_project - email entered success
+[INFO ] 2024-01-10 21:13:59.146 [main] prach_project - password entered success
+[INFO ] 2024-01-10 21:14:00.152 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-10 21:14:00.152 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-10 21:32:47.253 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-10 21:32:47.376 [main] prach_project - login page verified 
+[INFO ] 2024-01-10 21:32:47.710 [main] prach_project - email entered success
+[INFO ] 2024-01-10 21:32:47.931 [main] prach_project - password entered success
+[INFO ] 2024-01-10 21:32:49.046 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-10 21:32:49.047 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-10 21:54:17.763 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-10 21:54:17.826 [main] prach_project - login page verified 
+[INFO ] 2024-01-10 21:54:18.028 [main] prach_project - email entered success
+[INFO ] 2024-01-10 21:54:18.155 [main] prach_project - password entered success
+[INFO ] 2024-01-10 21:54:19.240 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-10 21:54:19.240 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-10 21:57:36.282 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-10 21:57:36.345 [main] prach_project - login page verified 
+[INFO ] 2024-01-10 21:57:36.563 [main] prach_project - email entered success
+[INFO ] 2024-01-10 21:57:36.732 [main] prach_project - password entered success
+[INFO ] 2024-01-10 21:57:37.774 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-10 21:57:37.775 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-10 22:06:56.842 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-10 22:06:56.905 [main] prach_project - login page verified 
+[INFO ] 2024-01-10 22:06:57.124 [main] prach_project - email entered success
+[INFO ] 2024-01-10 22:06:57.302 [main] prach_project - password entered success
+[INFO ] 2024-01-10 22:06:58.369 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-10 22:06:58.372 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 19:36:20.017 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 19:38:51.914 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 19:38:52.041 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 19:38:52.371 [main] prach_project - email entered success
+[INFO ] 2024-01-18 19:38:52.598 [main] prach_project - password entered success
+[INFO ] 2024-01-18 19:38:53.640 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 19:38:53.651 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 19:40:28.030 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 19:40:28.139 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 19:40:28.459 [main] prach_project - email entered success
+[INFO ] 2024-01-18 19:40:28.933 [main] prach_project - password entered success
+[INFO ] 2024-01-18 19:40:30.093 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 19:40:30.093 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 19:42:11.537 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 19:42:11.632 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 19:42:11.914 [main] prach_project - email entered success
+[INFO ] 2024-01-18 19:42:12.289 [main] prach_project - password entered success
+[INFO ] 2024-01-18 19:42:13.317 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 19:42:13.317 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 19:43:15.730 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 19:43:15.836 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 19:43:16.165 [main] prach_project - email entered success
+[INFO ] 2024-01-18 19:43:16.418 [main] prach_project - password entered success
+[INFO ] 2024-01-18 19:43:17.467 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 19:43:17.469 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 19:47:00.431 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 19:47:00.541 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 19:47:01.271 [main] prach_project - email entered success
+[INFO ] 2024-01-18 19:47:01.538 [main] prach_project - password entered success
+[INFO ] 2024-01-18 19:47:02.823 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 19:47:02.823 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 21:54:33.846 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 21:54:33.899 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 21:54:34.118 [main] prach_project - email entered success
+[INFO ] 2024-01-18 21:54:34.312 [main] prach_project - password entered success
+[INFO ] 2024-01-18 21:54:35.332 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 21:54:35.332 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:15:38.611 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:15:38.667 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:15:38.846 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:15:38.990 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:15:39.918 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:15:39.918 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:17:54.524 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:17:54.580 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:17:54.815 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:17:54.993 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:17:55.932 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:17:55.932 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:17:55.995 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-01-18 22:17:55.995 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-18 22:18:12.007 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:18:12.070 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:18:12.282 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:18:12.467 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:18:13.489 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:18:13.489 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:18:13.531 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-01-18 22:18:13.531 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-18 22:19:07.621 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:19:07.702 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:19:07.898 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:19:08.060 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:19:09.018 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:19:09.019 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:19:09.058 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-01-18 22:19:09.058 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-01-18 22:21:45.784 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:21:45.832 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:21:46.067 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:21:46.232 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:21:47.117 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:21:47.118 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:25:03.918 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:25:03.984 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:25:04.188 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:25:04.365 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:25:05.300 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:25:05.300 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 22:28:21.138 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 22:28:21.200 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 22:28:21.420 [main] prach_project - email entered success
+[INFO ] 2024-01-18 22:28:21.600 [main] prach_project - password entered success
+[INFO ] 2024-01-18 22:28:22.470 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 22:28:22.470 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 23:20:10.747 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 23:20:10.794 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 23:20:10.967 [main] prach_project - email entered success
+[INFO ] 2024-01-18 23:20:11.091 [main] prach_project - password entered success
+[INFO ] 2024-01-18 23:20:11.718 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 23:20:11.718 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 23:32:16.574 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 23:32:16.674 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 23:32:16.999 [main] prach_project - email entered success
+[INFO ] 2024-01-18 23:32:17.275 [main] prach_project - password entered success
+[INFO ] 2024-01-18 23:32:17.965 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 23:32:17.965 [main] prach_project - moving to sign in page
+[INFO ] 2024-01-18 23:47:27.621 [main] prach_project - clicked on sign success
+[INFO ] 2024-01-18 23:47:27.738 [main] prach_project - login page verified 
+[INFO ] 2024-01-18 23:47:28.066 [main] prach_project - email entered success
+[INFO ] 2024-01-18 23:47:28.341 [main] prach_project - password entered success
+[INFO ] 2024-01-18 23:47:29.419 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-01-18 23:47:29.420 [main] prach_project - moving to sign in page
+[INFO ] 2024-02-28 22:23:17.246 [main] prach_project - launchTC done successfully
+[ERROR] 2024-02-28 22:23:17.253 [main] prach_project - from now it is getting error
+[INFO ] 2024-02-29 07:21:32.728 [main] prach_project - clicked on sign success
+[INFO ] 2024-02-29 07:21:32.800 [main] prach_project - login page verified 
+[INFO ] 2024-02-29 07:21:33.029 [main] prach_project - email entered success
+[INFO ] 2024-02-29 07:21:33.376 [main] prach_project - password entered success
+[INFO ] 2024-02-29 07:21:34.542 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-02-29 07:21:34.543 [main] prach_project - moving to sign in page
+[INFO ] 2024-02-29 07:21:34.599 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-02-29 07:21:34.601 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-02-29 07:33:56.147 [main] prach_project - clicked on sign success
+[INFO ] 2024-02-29 07:33:56.218 [main] prach_project - login page verified 
+[INFO ] 2024-02-29 07:33:56.471 [main] prach_project - email entered success
+[INFO ] 2024-02-29 07:33:56.671 [main] prach_project - password entered success
+[INFO ] 2024-02-29 07:33:57.696 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-02-29 07:33:57.696 [main] prach_project - moving to sign in page
+[INFO ] 2024-02-29 07:33:57.758 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-02-29 07:33:57.758 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-02-29 07:45:58.703 [main] prach_project - clicked on sign success
+[INFO ] 2024-02-29 07:45:58.805 [main] prach_project - login page verified 
+[INFO ] 2024-02-29 07:45:59.166 [main] prach_project - email entered success
+[INFO ] 2024-02-29 07:45:59.449 [main] prach_project - password entered success
+[INFO ] 2024-02-29 07:46:00.913 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-02-29 07:46:00.913 [main] prach_project - moving to sign in page
+[INFO ] 2024-02-29 07:46:01.037 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-02-29 07:46:01.039 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-03-01 07:27:39.408 [main] prach_project - clicked on sign success
+[INFO ] 2024-03-01 07:27:39.517 [main] prach_project - login page verified 
+[INFO ] 2024-03-01 07:27:39.862 [main] prach_project - email entered success
+[INFO ] 2024-03-01 07:27:40.119 [main] prach_project - password entered success
+[INFO ] 2024-03-01 07:27:41.477 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-03-01 07:27:41.477 [main] prach_project - moving to sign in page
+[INFO ] 2024-03-01 07:27:41.555 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-03-01 07:27:41.555 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-03-01 07:53:36.545 [main] prach_project - clicked on sign success
+[INFO ] 2024-03-01 07:53:36.640 [main] prach_project - login page verified 
+[INFO ] 2024-03-01 07:53:36.987 [main] prach_project - email entered success
+[INFO ] 2024-03-01 07:53:37.287 [main] prach_project - password entered success
+[INFO ] 2024-03-01 07:53:38.625 [main] prach_project - clicked on submit btn success
+[INFO ] 2024-03-01 07:53:38.625 [main] prach_project - moving to sign in page
+[INFO ] 2024-03-01 07:53:38.719 [main] prach_project - landed on  signin page  successfully
+[INFO ] 2024-03-01 07:53:38.719 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
