@@ -1,6 +1,5 @@
 package com.prach_project.testcases;
 
-import com.prach_project.pageobject.Indexpage;
 import com.prach_project.pageobject.Womenpage;
 
 public class paralleltestingTC01IP extends Baseclass {
