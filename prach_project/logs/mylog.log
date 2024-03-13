@@ -251,3 +251,6 @@
 [INFO ] 2024-03-01 07:53:38.625 [main] prach_project - moving to sign in page
 [INFO ] 2024-03-01 07:53:38.719 [main] prach_project - landed on  signin page  successfully
 [INFO ] 2024-03-01 07:53:38.719 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-03-12 22:54:26.441 [TestNG-tests-1] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-03-12 23:55:08.718 [main] prach_project - this test case is : >> signInScenario >> is successfully executed
+[INFO ] 2024-03-13 00:02:20.041 [main] prach_project - this test case is : >> signInScenario >> is successfully executed

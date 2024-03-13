@@ -54,11 +54,19 @@ public class Printeddresspage  {
 
 	public Addtocart addToCart() {
 		WebElement addtocart = driver.findElement(By.xpath("//p[@id='add_to_cart']/button"));
+		Utilities.explicitlyWait(addtocart);
 		addtocart.click();
 //		verifty
 //		Addtocart atc = new Addtocart();
 //		atc.addToCartPopUp();
 		return new Addtocart(driver);
+		
+	}
+	
+	public void printedcombo() {
+		
+		printedDressAvalibilityAndSelect();
+		addToCart();
 		
 	}
 

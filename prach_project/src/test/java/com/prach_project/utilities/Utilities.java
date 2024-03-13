@@ -132,7 +132,7 @@ public class Utilities extends Baseclass {
 //		return String;
 //	}
 	  // cleared it by creating in another class and pasted it here
-	public void explicitlyWait(WebElement ele) {	
+	public static void explicitlyWait(WebElement ele) {	
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.visibilityOf(ele));
 	}

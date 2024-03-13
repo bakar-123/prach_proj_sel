@@ -31,10 +31,11 @@ public class Addtocart  {
 	}
 
 	
-	public void proccedToCheckOut() {
+	public Shoppingcartsummarypage proccedToCheckOut() {
 		WebElement proccedtocheckout = driver.findElement(By.xpath("//div[4]/a[@rel='nofollow']/span"));
 		proccedtocheckout.click();
 
+		return new Shoppingcartsummarypage(driver);
 	}
 
 }

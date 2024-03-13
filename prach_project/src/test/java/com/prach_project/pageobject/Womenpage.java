@@ -55,7 +55,7 @@ public class Womenpage {
 //		wait.until(ExpectedConditions.visibilityOf(selwomdress));
 		
 		ut = new Utilities();
-		ut.explicitlyWait(selwomdress);
+		ut.explicitlyWait(selwomdress);  // since it is a static methods it is showing this warning like. if wish we can change
 		
 		WebElement selevedress = driver.findElement(By.xpath("(//a[@title='Evening Dresses'][normalize-space()='Evening Dresses'])[1]"));
 		act = new Actions(driver);

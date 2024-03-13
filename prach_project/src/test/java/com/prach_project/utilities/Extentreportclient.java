@@ -53,11 +53,15 @@ public class Extentreportclient extends Baseclass implements ITestListener {
 	}
 
 	public void onTestStart(ITestResult result) {
-		String testname = result.getName();
-
-		System.out.println("onTestStart method executed : ..........." + testname);
-		test = ereport.createTest(testname);
-		test.log(Status.INFO, "test started successfully " + testname);
+//		String testname = result.getName();
+//
+//		System.out.println("onTestStart method executed : ..........." + testname);
+//		test = ereport.createTest(testname).assignAuthor("Bakar").assignCategory("smoke test").assignDevice("this is in chrome");
+//		test.log(Status.INFO, "test started successfully " + testname);
+		
+//		=== changing this for removing duplicates
+		Baseclass bc = new Baseclass();
+		bc.setupapp();   // if called here @beforetest will get problem
 	}
 
 	public void onTestSuccess(ITestResult result) {
